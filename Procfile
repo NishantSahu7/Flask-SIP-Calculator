@@ -1,1 +1,1 @@
-web: gunicorn flask_sip_calculator:app
+web: gunicorn app:app
